@@ -1,0 +1,6 @@
+@NatsPublisherApi_HostAddress = http://localhost:5033
+
+GET {{NatsPublisherApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
